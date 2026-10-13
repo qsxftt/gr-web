@@ -1,0 +1,23 @@
+{
+  "name": "Т-Банк",
+  "short_name": "Т-Банк",
+  "description": "Мобильный банк Т-Банк",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#141416",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "./assets/app-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/apple-touch-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
